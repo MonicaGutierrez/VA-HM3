@@ -32,7 +32,27 @@ La visualización tiene un nivel sencillo de *navegación* , la cual simplemente
 
 La visualización le propone al usuario encontrar **insights** como por ejemplo, la mediana del puntaje de las mujeres en el valle es 23 puntos por encima que el de los hombres en colegio público, mientras que la diferencia para colegio privado es de de casi 4 veces por debajo, con una diferencia de 8 puntos. En la Guajira, ocurre un fenómeno similar donde las mujeres superan a los hombres en 24 puntos en dicha prueba dentro de los colegios públicos. Pero la diferencia más grande la presenta Bolívar, con una diferencia de 44 puntos. También se encontró que, según datos reportados, Norte de Santander no posee colegios oficiales, así como Putumayo, Vichada y Chocó, mientras que Guanía sólo tiene colegios oficiales. Lo más particular que permite analizar la visualización es que 15 de los 29 departamentos visualizados, *no* poseen colegios bilingues a pesar que desde el año 1994, en la Ley General de Educación se reconoció la importancia de aprender una lengua extranjera, así que en la definición de las áreas obligatorias de la básica y de la media incluyó: “Humanidades, lengua castellana e idiomas extranjeros”. Y el único departamento que posee colegios públicos bilingues es César. 
 
+## MIT License
 
+#### Copyright (c) 2019 Mónica Tatiana Gutierrez Ballen.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 
