@@ -28,6 +28,12 @@ La visualización se realiza con el fin de que el usuario *descubra* como es el 
 
 La visualización tiene un nivel sencillo de *navegación* , la cual simplemente *expresa* por un canal de posición la mediana calculada de los estudiantes desagregado por diferentes atributos y que además posee un componente de *tono* debido a que es una variable categórica, lo que permite realizar la comparación más eficientemente. Finalmente, se agregó un componente de filtro para las características del colegio para que el usuario pueda ver más detalladamente las comparaciones que la visualización le propone.
 
+*Conclusión*
+
+La visualización le propone al usuario encontrar **insights** como por ejemplo, la mediana del puntaje de las mujeres en el valle es 23 puntos por encima que el de los hombres en colegio público, mientras que la diferencia para colegio privado es de de casi 4 veces por debajo, con una diferencia de 8 puntos. En la Guajira, ocurre un fenómeno similar donde las mujeres superan a los hombres en 24 puntos en dicha prueba dentro de los colegios públicos. Pero la diferencia más grande la presenta Bolívar, con una diferencia de 44 puntos. También se encontró que, según datos reportados, Norte de Santander no posee colegios oficiales, así como Putumayo, Vichada y Chocó, mientras que Guanía sólo tiene colegios oficiales. Lo más particular que permite analizar la visualización es que 15 de los 29 departamentos visualizados, *no* poseen colegios bilingues a pesar que desde el año 1994, en la Ley General de Educación se reconoció la importancia de aprender una lengua extranjera, así que en la definición de las áreas obligatorias de la básica y de la media incluyó: “Humanidades, lengua castellana e idiomas extranjeros”. Y el único departamento que posee colegios públicos bilingues es César. 
+
+
+
 
 
 
