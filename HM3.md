@@ -1,0 +1,10 @@
+# ¿Cómo es la relación entre el puntaje de la prueba Saber 11 2019-I y características sociodemográficas del estudiante y el colegio donde estudia?
+
+## Una visualización que permite ver la mediana de los puntajes por departamento, sexo del estudiante, naturaleza del colegio y si posee o no un componente bilingue.
+
+Las pruebas Saber 11 son un examen de estado aplicado por el Instituto Colombiano para la Evaluación de la Educación (Icfes) a todos los estudiantes de último grado del colegio
+el cual les permite validar su bachillerato e incluso, acceder a una educación superior. Como evaluación, el objetivo es medir los conocimientos básicos en múltiples áreas a todos los estudiantes del
+territorio colombiano sin exclusión. Sin embargo, los resultados de la prueba alrededor de todo el territorio colombiano dejan ver a la luz que existen patrones "atípicos" de distribuciones inequitativas del puntaje resultado de la prueba.
+La siguiente [visualización](https://public.tableau.com/views/Viz3Icfes/Hoja1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link) permite descubrir algunos de estos patrones "atípicos". 
+
+<div class='tableauPlaceholder' id='viz1568698227457' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;Viz3Icfes&#47;Hoja1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Viz3Icfes&#47;Hoja1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;Viz3Icfes&#47;Hoja1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>
